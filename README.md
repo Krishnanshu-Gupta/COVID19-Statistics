@@ -15,4 +15,4 @@ Many more useful features to look forward to in the next few weeks:
  - Many more!
 
 # Other Information:
-Rejected from the App Store because I was an individual developer, rather than an accredited Healthcare/Educational institution. However, I still wanted to let people for both IOS and Android try and run this app.
+Rejected from the App Store because I was an individual developer, rather than an accredited Healthcare/Educational institution. However, I still wanted to let people on both IOS and Android platforms try and download this app.
