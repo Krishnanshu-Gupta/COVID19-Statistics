@@ -1,3 +1,3 @@
 # Covid19 - Statistics
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/screenshots/Screenshot_20200411-232044.jpg)
