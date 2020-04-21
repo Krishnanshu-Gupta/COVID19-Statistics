@@ -1,0 +1,8 @@
+# Referenced at /Users/krishnanshugupta/Downloads/CovidApp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/krishnanshugupta/Downloads/CovidApp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class com.kreeda.covidapp.MainActivity { <init>(); }
+# Referenced at /Users/krishnanshugupta/Downloads/CovidApp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/krishnanshugupta/Downloads/CovidApp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:47
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
