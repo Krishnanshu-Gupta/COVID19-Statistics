@@ -1,4 +1,6 @@
 # Covid19 - Statistics
+
+General Information
 ---
 
 The app is built with the Flutter SDK. Refer to the Flutter Docs for installation and setup. The app was rejected from both the Appstore and Google Play since I'm an individual developer, but I still wanted to share this service with others to make it easy to access and find trustworthy information through a mobile app.
