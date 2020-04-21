@@ -1,6 +1,11 @@
 # Covid19 - Statistics
+---
+
+The app is built with the Flutter SDK. Refer to the Flutter Docs for installation and setup. The API used is the Novel Covid API which uses data from Worldometer and the Johns Hopkins University to keep the data accurate. Refer to their project for API updates which could change how the app functions: [I'm an inline-style link](https://github.com/novelcovid/api)
 
 ---
+
+![Main](/screenshots/Screenshot_20200411-232044.jpg)
 
 ![Main](/screenshots/Screenshot_20200411-232044.jpg)
 
